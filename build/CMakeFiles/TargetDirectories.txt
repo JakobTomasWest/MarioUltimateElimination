@@ -1,0 +1,3 @@
+/Users/jakobwest/Desktop/Game/MarioUltimateElimination/build/CMakeFiles/SuperMario.dir
+/Users/jakobwest/Desktop/Game/MarioUltimateElimination/build/CMakeFiles/edit_cache.dir
+/Users/jakobwest/Desktop/Game/MarioUltimateElimination/build/CMakeFiles/rebuild_cache.dir
